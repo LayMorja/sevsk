@@ -480,4 +480,6 @@ button.accordion:hover, button.accordion.is-open {
   .header__name {
     font-size: 3rem;
   }
+  .header__list li {
+      margin-right: 10px;
 }
