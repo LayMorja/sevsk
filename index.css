@@ -474,6 +474,9 @@ button.accordion:hover, button.accordion.is-open {
   }
 }
 @media (max-width: 425px) {
+  .header {
+    min-height: 736px;
+  }
   .header__menu a {
     font-size: 0.9rem;
   }
