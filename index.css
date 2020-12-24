@@ -478,7 +478,7 @@ button.accordion:hover, button.accordion.is-open {
 }
 @media (max-width: 465px) {
   .header {
-    min-height: 350px;
+    min-height: 250px;
     flex-direction: column-reverse;
   }
   .plug {
@@ -542,16 +542,16 @@ button.accordion:hover, button.accordion.is-open {
 }
 @media (max-width: 414px) {
   .header {
-    min-height: 896px;
+    min-height: 766px;
   }
 }
 @media (max-width: 375px) {
   .header {
-    min-height: 812px;
+    min-height: 712px;
   }
 }
 @media (max-width: 320px) {
   .header {
-    min-height: 568px;
+    min-height: 468px;
   }
 }
