@@ -476,7 +476,7 @@ button.accordion:hover, button.accordion.is-open {
     color:rgb(189, 189, 189);
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 465px) {
   .header {
     min-height: 350px;
     flex-direction: column-reverse;
