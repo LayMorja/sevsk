@@ -480,8 +480,7 @@ button.accordion:hover, button.accordion.is-open {
 }
 @media (max-width: 465px) {
   .header {
-    min-height: 175px;
-    max-height: 250px;
+    height: 480px;
     flex-direction: column-reverse;
   }
   .plug {
