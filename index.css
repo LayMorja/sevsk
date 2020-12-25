@@ -480,7 +480,8 @@ button.accordion:hover, button.accordion.is-open {
 }
 @media (max-width: 425px) {
   .header {
-    min-height: 350px;
+    min-height: 50x;
+    max-height: 50px;
     flex-direction: column-reverse;
     justify-content: flex-start;
   }
