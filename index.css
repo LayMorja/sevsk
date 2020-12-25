@@ -480,8 +480,7 @@ button.accordion:hover, button.accordion.is-open {
 }
 @media (max-width: 425px) {
   .header {
-    min-height: 50x;
-    max-height: 50px;
+    min-height: 350px;
     flex-direction: column-reverse;
     justify-content: flex-start;
   }
@@ -545,20 +544,5 @@ button.accordion:hover, button.accordion.is-open {
     width: 175px;
     height: 1px;
     background-color: #fff;
-  }
-}
-@media (max-width: 414px) {
-  .header {
-    min-height: 896px;
-  }
-}
-@media (max-width: 375px) {
-  .header {
-    min-height: 812px;
-  }
-}
-@media (max-width: 320px) {
-  .header {
-    min-height: 568px;
-  }
+    }
 }
