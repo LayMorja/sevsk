@@ -435,6 +435,11 @@ button.accordion:hover, button.accordion.is-open {
     min-height: 890px;
   }
 }
+@media (max-width: 1366px) {
+  .header {
+    min-height: 768px;
+  }
+}
 @media (max-width: 1024px) {
   .wrapper {
     padding: 0 10px;
